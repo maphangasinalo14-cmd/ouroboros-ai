@@ -1,7 +1,5 @@
 # 🐍 Ouroboros: Autonomous Self-Healing Security System
 
-![Titan Defense Architecture](Titan_Defense_Architecture.png)
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![AI](https://img.shields.io/badge/Powered%20by-Gemini%202.5-orange)
 
 ## 📋 Overview
@@ -16,10 +14,6 @@
 4.  **Analyze:** Sends the vulnerable code snippet and error logs to **Google Gemini**.
 5.  **Patch:** The AI generates a secure, parameterized query replacement.
 6.  **Verify:** Ouroboros hot-swaps the code, restarts the service, and re-runs the attack to confirm immunity.
-
-## 📸 Proof of Concept
-**The system detected a vulnerability, patched it, and verified the fix in under 15 seconds:**
-![Proof of Success](proof_of_success.png)
 
 ## 🛠️ Tech Stack
 * **Core Logic:** Python 3.10+
