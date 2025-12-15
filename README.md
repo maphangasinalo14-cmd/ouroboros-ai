@@ -1,5 +1,7 @@
 # 🐍 Ouroboros: Autonomous Self-Healing Security System
 
+![System Architecture](https://github.com/maphangasinalo14-cmd/ouroboros-ai/blob/main/ChainLock%20Supply%20Chain-2025-12-14-175014.png?raw=true)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![AI](https://img.shields.io/badge/Powered%20by-Gemini%202.5-orange)
 
 ## 📋 Overview
@@ -21,6 +23,11 @@
 * **Target App:** Flask (Microservice)
 * **Detection:** Custom Penetration Testing Suite (Requests/Regex)
 
+## 📸 Proof of Concept
+**The system detected a vulnerability, patched it, and verified the fix in under 15 seconds:**
+
+![Proof of Success](https://github.com/maphangasinalo14-cmd/ouroboros-ai/blob/main/IMG-20251214-WA0019.jpg?raw=true)
+
 ## 🚀 Quick Start
 ### Prerequisites
 * Python 3.x
@@ -29,7 +36,7 @@
 ### Usage
 ```bash
 # Clone the repo
-git clone [https://github.com/YOUR_USERNAME/Ouroboros-AI.git](https://github.com/YOUR_USERNAME/Ouroboros-AI.git)
+git clone [https://github.com/maphangasinalo14-cmd/ouroboros-ai.git](https://github.com/maphangasinalo14-cmd/ouroboros-ai.git)
 
 # Install dependencies
 pip install -r requirements.txt
